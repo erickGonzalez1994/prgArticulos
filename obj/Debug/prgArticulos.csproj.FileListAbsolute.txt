@@ -1,0 +1,15 @@
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\prgArticulos\bin\Debug\prgArticulos.exe.config
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\prgArticulos\bin\Debug\prgArticulos.exe
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\prgArticulos\bin\Debug\prgArticulos.pdb
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\prgArticulos\obj\Debug\prgArticulos.csprojResolveAssemblyReference.cache
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\prgArticulos\obj\Debug\prgArticulos.frmAcceso.resources
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\prgArticulos\obj\Debug\prgArticulos.Properties.Resources.resources
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\prgArticulos\obj\Debug\prgArticulos.csproj.GenerateResource.Cache
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\prgArticulos\obj\Debug\prgArticulos.exe
+c:\users\estudiante\documents\visual studio 2015\Projects\prgArticulos\prgArticulos\obj\Debug\prgArticulos.pdb
+C:\Users\Estudiante\Documents\Visual Studio 2015\Projects\prgArticulos\prgArticulos\bin\Debug\clsConexionSQL.dll
+C:\Users\Estudiante\Documents\Visual Studio 2015\Projects\prgArticulos\prgArticulos\bin\Debug\Controlador.dll
+C:\Users\Estudiante\Documents\Visual Studio 2015\Projects\prgArticulos\prgArticulos\bin\Debug\clsConexionSQL.pdb
+C:\Users\Estudiante\Documents\Visual Studio 2015\Projects\prgArticulos\prgArticulos\bin\Debug\Controlador.pdb
+C:\Users\Estudiante\Documents\Visual Studio 2015\Projects\prgArticulos\prgArticulos\obj\Debug\prgArticulos.mdiMenu.resources
+C:\Users\Estudiante\Documents\Visual Studio 2015\Projects\prgArticulos\prgArticulos\obj\Debug\prgArticulos.frmUsuarios.resources
